@@ -76,7 +76,7 @@ The dashboard helps stakeholders quickly track operations, detect issues, and su
 ---
 
 ### 🔷 Detail Dashboard
-![](image/dashboard12.png)
+![](image/dashboard%202.png)
 
 ---
 
