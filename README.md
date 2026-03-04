@@ -1,63 +1,97 @@
-## Xây dựng dashboard theo dõi hiệu quả giao hàng và chất lượng dịch vụ ##
+## 📊 Delivery Performance & Service Quality Dashboard
 
-### Nội dung ###
-1. Bức tranh tổng quan về tình hình giao hàng của công ty
-2. Theo dõi chi tiết về thời gian giao hàng và tỉ lệ thành công
-3. Theo dõi chi tiết về chất lượng dịch vụ và trãi nghiệm khách hàng
+### 🔎 Project Overview
+This project builds an end-to-end dashboard to monitor delivery performance and customer service quality.  
+The dashboard helps stakeholders quickly track operations, detect issues, and support data-driven decisions.
 
-### All importance KIPs ###
-- Total delivery time
-- Successful delivery ratio
-- Late delivery ratio
-- Cancelation ratio
-- Customer rating score
+---
 
-### Objective ###
-1. Monitoring
--  Số lượng đơn hàng/reviews
--  Thời gian giao hàng
--  Tỷ trọng các trạng thái
--  Điểm số review của khách hàng
-2. Analysis
-- Thay đổi biến động theo thời gian
-- Góc nhìn nhiều chiều từ dữ liệu
+### 🎯 Objectives
 
-### Data ###
-![Diagram ecom](image/diagram_ecom.png)
-1. Categorycal
-- Product category
-- Time type
-- Location
-- Shipper
-- Seller
-2. Numerical
-- Delivery time
-- Score
-- Price
+#### 1️⃣ Monitoring
+- Track number of orders and reviews  
+- Monitor delivery time performance  
+- Analyze delivery status distribution  
+- Evaluate customer rating score  
 
-### Visualization ###
-1. Cards
-- Key metrics
-2. Overtime
-- Bar chart, line chart
-3. Snapshot
-- Pie chart, bar chart, table matrix, areachart
-4. Analytical
+#### 2️⃣ Analysis
+- Identify trends and changes over time  
+- Provide multi-dimensional data insights  
+- Detect underperforming areas in operations  
 
+---
 
-### Overview Dashboard ###
+### 📌 Key KPIs
+- Total Delivery Time  
+- Successful Delivery Ratio  
+- Late Delivery Ratio  
+- Cancellation Ratio  
+- Customer Rating Score  
 
+---
+
+### 🗂️ Data Structure
+
+![E-commerce Data Model](image/diagram_ecom.png)
+
+#### 🔹 Categorical
+- Product Category  
+- Time Type  
+- Location  
+- Shipper  
+- Seller  
+
+#### 🔹 Numerical
+- Delivery Time  
+- Score  
+- Price  
+
+---
+
+### 📈 Visualization Approach
+
+**Cards**
+- Key metrics overview  
+
+**Over Time Analysis**
+- Bar chart  
+- Line chart  
+
+**Snapshot Analysis**
+- Pie chart  
+- Bar chart  
+- Matrix table  
+- Area chart  
+
+**Analytical Views**
+- Multi-dimensional deep dive  
+
+---
+
+## 🖥️ Dashboards
+
+### 🔷 Overview Dashboard
 ![](image/dashboard1.png)
 
-### Detail Dashboard  ###
+---
 
+### 🔷 Detail Dashboard
 ![](image/dashboard12.png)
 
-### Customer Dashboard ###
+---
 
+### 🔷 Customer Experience Dashboard
 ![](image/dashboard3.png)
 
-### HumanResouce Dashboard ###
+---
 
+### 🔷 Human Resource Dashboard
 ![](image/dashboard4.png)
 
+---
+
+## 🚀 Business Value
+- Provide real-time visibility into delivery performance  
+- Improve service quality monitoring  
+- Support operational decision-making  
+- Identify low-performing shippers and bottlenecks  
